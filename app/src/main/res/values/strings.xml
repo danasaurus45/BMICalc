@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="splash_title">Keep your body at glance</string>
+    <string name="splash_subtitle">Ideal for the health conscious</string>
+    <string name="main_height">cm</string>
+    <string name="main_weight">kg</string>
+    <string name="main_goal">goal</string>
+    <string name="main_age">age</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="terlalu_sangat_kurus">Terlalu Sangat Kurus</string>
+    <string name="sangat_kurus">Sangat Kurus</string>
+    <string name="kurus">Kurus</string>
+    <string name="normal">Normal</string>
+    <string name="gemuk">Gemuk</string>
+    <string name="cukup_gemuk">Cukup Gemuk</string>
+    <string name="sangat_gemuk">Sangat Gemuk</string>
+    <string name="terlalu_sangat_gemuk">Terlalu Sangat Gemuk</string>
+</resources>
